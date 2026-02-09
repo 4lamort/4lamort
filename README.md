@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=4B0000" alt="Stalker Views" />
-</p>
-
-
-  <p align="center">
+ <p align="center">
+   
 <img width=540 height=12 src="https://github.com/user-attachments/assets/0611cc28-b481-44a7-98dc-9ff53cb5c627"/>
 <p align=center>
 <img src="https://github.com/user-attachments/assets/b522397a-9ad8-433d-9bd0-135dd0d63864"/> 
@@ -36,3 +32,6 @@
 <img width=540 height=12 src="https://github.com/user-attachments/assets/0611cc28-b481-44a7-98dc-9ff53cb5c627"/>
     <br>
     <br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=4B0000" alt="Stalker Views" />
+</p>
