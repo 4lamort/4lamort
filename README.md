@@ -1,4 +1,10 @@
  <p align="center">
+<p align="center">
+⦅˚̣̣̣། ✚  𝚒 𝚎𝚡𝚙𝚎𝚌𝚝 𝚙𝚘𝚕𝚒𝚝𝚎 𝚖𝚊𝚗𝚗𝚎𝚛𝚜  𝚒𝚏 𝚢𝚘𝚞 𝚊𝚛𝚎 𝚝𝚘𝚘 𝚒𝚖𝚖𝚊𝚝𝚞𝚛𝚎 𝚏𝚘𝚛 𝚝𝚑𝚊𝚝, 𝚙𝚕𝚎𝚊𝚜𝚎 𝚍𝚗𝚒  །†.
+</p>
+
+
+ <p align="center">
    
 <img width=540 height=12 src="https://github.com/user-attachments/assets/0611cc28-b481-44a7-98dc-9ff53cb5c627"/>
 <p align=center>
