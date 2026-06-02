@@ -3,6 +3,15 @@
 </p>
 
 <p align="center">
+  <a href="https://alamort.atabook.org/">ᴀᴛᴀʙᴏᴏᴋ</a> ⛧
+  <a href="https://4lamort.straw.page/">ꜱᴛʀᴀᴡᴘᴀɢᴇ</a> ⛧
+    <a href="https://4lamort.straw.page/">ᴍʏ ᴍᴜꜱɪᴄ</a> ⛧
+  <a href="https://discord.gg/VXW7CAwJmh">ʜᴇʟʟꜱɪɴɢ ᴅɪꜱᴄᴏʀᴅ ꜱᴇʀᴠᴇʀ</a>
+</p>
+
+
+
+<p align="center">
 <img width="600" height="380" alt="daca34b7-e27c-4baf-a7f7-3f5b56fb9ff9" src="https://github.com/user-attachments/assets/a31c6901-16b2-42c7-a03b-cc275c131a54" />
 
 <p align="center">
