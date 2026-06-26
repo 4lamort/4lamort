@@ -17,3 +17,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=35&speed=130&pause=4000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Around+people+worth+interrupting+my+isolation+for." />
 </p>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pqircuoznzk4sn7csbchukzkdm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
