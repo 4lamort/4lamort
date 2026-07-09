@@ -23,3 +23,15 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pqircuoznzk4sn7csbchukzkdm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false" alt="Spotify GitHub Profile">
   </a>
 </p>
+
+<p align="center">
+-status-
+<p align="center">  
+🟢 Online +💬 Looking for chat : I'm available and willing to have a conversation
+<p align="center">
+🌙 Away : I'm multitasking = possible slow response
+<p align="center">
+⛔️ Busy : BEWARE!!! I'm most likely wanna go silent
+
+
+
