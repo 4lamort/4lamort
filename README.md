@@ -24,14 +24,6 @@
   </a>
 </p>
 
-<p align="center">
--status-
-<p align="center">  
-🟢 Online +💬 Looking for chat : I'm available and willing to have a conversation
-<p align="center">
-🌙 Away : I'm multitasking = possible slow response
-<p align="center">
-⛔️ Busy : BEWARE!!! I'm most likely wanna go silent
 
 
 
