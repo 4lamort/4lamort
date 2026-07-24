@@ -9,6 +9,8 @@
   <a href="https://discord.gg/VXW7CAwJmh">ʜᴇʟʟꜱɪɴɢ ᴅɪꜱᴄᴏʀᴅ ꜱᴇʀᴠᴇʀ</a>
 </p>
 
+<p align="center">
+<img width="500" height="27" alt="e105beddc0bede244590afb714836384f7044697" src="https://github.com/user-attachments/assets/be9f105f-a48c-466d-a066-1a066996ef95" />
 
 
 <p align="center">
