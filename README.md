@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://alamort.atabook.org">
-    <img src="https://img.shields.io/badge/†_ATABOOK_†-000000?style=for-the-badge&logoColor=white" alt="Atabook">
+    <img src="https://img.shields.io/badge/あ_ATABOOK-000000?style=for-the-badge&logoColor=white" alt="Atabook">
   </a>
 
   <a href="https://4lamxrt.straw.page/">
@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://discord.gg/VXW7CAwJmh">
-    <img src="https://img.shields.io/badge/†_HELLSING_DISCORD_†-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/_HELLSING_DISCORD_-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
