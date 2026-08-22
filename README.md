@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://4lamxrt.straw.page/">ᴀᴛᴀʙᴏᴏᴋ</a> ⛧
-  <a href="4lamxrt.straw.page">ꜱᴛʀᴀᴡᴘᴀɢᴇ</a> ⛧
+ <a href="https://alamort.atabook.org">ᴀᴛᴀʙᴏᴏᴋ</a> ⛧
+<a href="https://4lamxrt.straw.page/">ꜱᴛʀᴀᴡᴘᴀɢᴇ</a> ⛧
   <a href="https://discord.gg/VXW7CAwJmh">ʜᴇʟʟꜱɪɴɢ ᴅɪꜱᴄᴏʀᴅ ꜱᴇʀᴠᴇʀ</a>
 </p>
 
