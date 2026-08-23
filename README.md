@@ -1,4 +1,8 @@
+<p align="center">
+<img width="1156" height="180" alt="tumblr_45269c73907b63a7dff058e6372bcb3e_557808a7_1280" src="https://github.com/user-attachments/assets/aa5d9e97-cee3-4de1-835b-a69cdba28491" />
 
+
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME&label=⛧&color=000000" />
 </p>
@@ -71,7 +75,7 @@ Constant loudness and attention-seeking can be exhausting.
 
 
 <a href="https://4lamxrt.straw.page/"><img width="200" height="70" alt="1" src="https://github.com/user-attachments/assets/f8bb829c-9b24-47ae-a3cd-99ed89de67f8" /></a><a href="https://4lamxrtrequests.straw.page"><img width="200" height="70" alt="2" src="https://github.com/user-attachments/assets/47f30a6d-4028-4da1-80f4-dbca033a9c5f" /></a><a href="https://alamort.atabook.org"><img width="200" height="70" alt="3" src="https://github.com/user-attachments/assets/cf128dca-6be1-480e-a800-e2185fe79023" /></a><a href="https://pronouns.cc/@ALAMORT"><img width="200" height="70" alt="4" src="https://github.com/user-attachments/assets/e74e772f-27ef-45c6-9548-ada4a3ccb3e1" /></a>
-
+<br><br>
 
 
 
@@ -97,6 +101,9 @@ Constant loudness and attention-seeking can be exhausting.
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pqircuoznzk4sn7csbchukzkdm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false" alt="Spotify GitHub Profile">
   </a>
 </p>
+
+<p align="center">
+<img width="140" height="180" alt="090886de-ea67-4008-b9f4-0901baed15cc" src="https://github.com/user-attachments/assets/42b59b91-062d-4d5a-b044-8d932988cc4d" />
 
 
 
