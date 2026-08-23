@@ -103,7 +103,7 @@ Constant loudness and attention-seeking can be exhausting.
 </p>
 
 <p align="center">
-<img width="130" height="180" alt="090886de-ea67-4008-b9f4-0901baed15cc" src="https://github.com/user-attachments/assets/42b59b91-062d-4d5a-b044-8d932988cc4d" />
+<img width="120" height="180" alt="090886de-ea67-4008-b9f4-0901baed15cc" src="https://github.com/user-attachments/assets/42b59b91-062d-4d5a-b044-8d932988cc4d" />
 
 
 
