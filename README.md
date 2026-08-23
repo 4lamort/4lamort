@@ -105,6 +105,29 @@ Constant loudness and attention-seeking can be exhausting.
 <p align="center">
 <img width="120" height="180" alt="090886de-ea67-4008-b9f4-0901baed15cc" src="https://github.com/user-attachments/assets/42b59b91-062d-4d5a-b044-8d932988cc4d" />
 
+<div align="center">
 
+<details>
+<summary><b>Ponychievements</b></summary>
 
+<br>
 
+Recognized as a <b>well-known player</b><br>
+and honored with the title <b>Ponytown's Dracula</b>.
+
+<br><br>
+
+Thank you very much for the nomination and for granting me these titles.<br>
+I truly appreciate the recognition.
+
+<br><br>
+
+<a href="https://github.com/ponychievements">
+  View Ponychievements
+</a>
+
+<br><br>
+
+</details>
+
+</div>
