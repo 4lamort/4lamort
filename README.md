@@ -73,7 +73,7 @@ Constant loudness and attention-seeking can be exhausting.
 
 
 
-
+<p align="center">
 <a href="https://4lamxrt.straw.page/"><img width="200" height="70" alt="1" src="https://github.com/user-attachments/assets/f8bb829c-9b24-47ae-a3cd-99ed89de67f8" /></a><a href="https://4lamxrtrequests.straw.page"><img width="200" height="70" alt="2" src="https://github.com/user-attachments/assets/47f30a6d-4028-4da1-80f4-dbca033a9c5f" /></a><a href="https://alamort.atabook.org"><img width="200" height="70" alt="3" src="https://github.com/user-attachments/assets/cf128dca-6be1-480e-a800-e2185fe79023" /></a><a href="https://pronouns.cc/@ALAMORT"><img width="200" height="70" alt="4" src="https://github.com/user-attachments/assets/e74e772f-27ef-45c6-9548-ada4a3ccb3e1" /></a>
 <br><br>
 
@@ -85,10 +85,10 @@ Constant loudness and attention-seeking can be exhausting.
 
 
 <p align="center">
-<img width="800" height="404" alt="animesher com_hellsing-alucard-gif-1390426" src="https://github.com/user-attachments/assets/355ee392-f928-449c-a415-99e1109c9d9e" />
+<img width="1172" height="600" alt="animesher com_hellsing-alucard-gif-1390426" src="https://github.com/user-attachments/assets/355ee392-f928-449c-a415-99e1109c9d9e" />
 
 <p align="center">
-<img width="1131" height="60" alt="Bildschirmfoto 2026-08-22 um 19 41 31" src="https://github.com/user-attachments/assets/4b84ba9d-e342-4a6e-8ea4-29dac8ef9a12" />
+<img width="1172" height="60" alt="Bildschirmfoto 2026-08-22 um 19 41 31" src="https://github.com/user-attachments/assets/4b84ba9d-e342-4a6e-8ea4-29dac8ef9a12" />
 <br><br>
 
 
