@@ -70,7 +70,7 @@ Constant loudness and attention-seeking can be exhausting.
 
 
 
-<a href="https://4lamxrtrequests.straw.page"><img width="200" height="70" alt="1" src="https://github.com/user-attachments/assets/f8bb829c-9b24-47ae-a3cd-99ed89de67f8" /></a><a href="https://4lamxrt.straw.page/"><img width="200" height="70" alt="2" src="https://github.com/user-attachments/assets/47f30a6d-4028-4da1-80f4-dbca033a9c5f" /></a><a href="https://alamort.atabook.org"><img width="200" height="70" alt="3" src="https://github.com/user-attachments/assets/cf128dca-6be1-480e-a800-e2185fe79023" /></a><a href="https://pronouns.cc/@ALAMORT"><img width="200" height="70" alt="4" src="https://github.com/user-attachments/assets/e74e772f-27ef-45c6-9548-ada4a3ccb3e1" /></a>
+<a href="https://4lamxrt.straw.page/"><img width="200" height="70" alt="1" src="https://github.com/user-attachments/assets/f8bb829c-9b24-47ae-a3cd-99ed89de67f8" /></a><a href="https://4lamxrtrequests.straw.page"><img width="200" height="70" alt="2" src="https://github.com/user-attachments/assets/47f30a6d-4028-4da1-80f4-dbca033a9c5f" /></a><a href="https://alamort.atabook.org"><img width="200" height="70" alt="3" src="https://github.com/user-attachments/assets/cf128dca-6be1-480e-a800-e2185fe79023" /></a><a href="https://pronouns.cc/@ALAMORT"><img width="200" height="70" alt="4" src="https://github.com/user-attachments/assets/e74e772f-27ef-45c6-9548-ada4a3ccb3e1" /></a>
 
 
 
