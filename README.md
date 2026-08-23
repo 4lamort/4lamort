@@ -1,19 +1,95 @@
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME&label=⛧&color=000000" />
 </p>
 
 <p align="center">
-  <a href="https://alamort.atabook.org"><img src="https://img.shields.io/badge/あ%20ATABOOK-000000?style=for-the-badge&logoColor=white" alt="Atabook"></a>
-  <a href="https://4lamxrt.straw.page/"><img src="https://img.shields.io/badge/「%20STRAWPAGE%20」-FFFFFF?style=for-the-badge&logoColor=black" alt="Strawpage"></a>
-  <a href="https://discord.gg/VXW7CAwJmh"><img src="https://img.shields.io/badge/%20HELLSING%20DISCORD%20SERVER%20-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Hellsing Discord Server"></a>
+  <a href="https://discord.gg/VXW7CAwJmh">
+    <img
+      src="https://img.shields.io/badge/%20HELLSING%20DISCORD%20SERVER%20-000000?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Hellsing Discord Server"
+      width="320"
+    >
+  </a>
 </p>
 
 
-<p align="center">
-<img width="600" height="380" alt="daca34b7-e27c-4baf-a7f7-3f5b56fb9ff9" src="https://github.com/user-attachments/assets/a31c6901-16b2-42c7-a03b-cc275c131a54" />
+
+<div align="center">
+
+<details>
+<summary><b>BEFORE YOU INTERACT:</b></summary>
+
+<br>
+
+<b>I’m quiet at first, but once I’m comfortable I get very talkative and excited.</b><br>
+Consider it an unlockable personality feature.
+
+<br><br>
+
+<b>Problematic or disrespectful people, keep your distance.</b><br>
+I’m not interested in unnecessary drama.
+
+<br><br>
+
+<b>I’m an adult and prefer people around my age.</b><br>
+I simply get along better with people in a similar stage of life.
+
+<br><br>
+
+<b>I’m often AFK or busy.</b><br>
+I’m not ignoring you, I just have a life outside the tab.
+
+<br><br>
+
+<b>Sexual jokes make me uncomfortable.</b><br>
+Please keep them away from me.
+
+<br><br>
+
+<b>Don’t be “jokingly mean” if we barely know each other.</b><br>
+Friendship first, insults later.
+
+<br><br>
+
+<b>If I bother you, tell me directly.</b><br>
+Clear communication is appreciated.
+
+<br><br>
+
+<b>I prefer calm people.</b><br>
+Constant loudness and attention-seeking can be exhausting.
+
+<br><br>
+
+</details>
+
+</div>
+
+
+
+
+
+<a href="https://4lamxrtrequests.straw.page"><img width="200" height="70" alt="1" src="https://github.com/user-attachments/assets/f8bb829c-9b24-47ae-a3cd-99ed89de67f8" /></a><a href="https://4lamxrt.straw.page/"><img width="200" height="70" alt="2" src="https://github.com/user-attachments/assets/47f30a6d-4028-4da1-80f4-dbca033a9c5f" /></a><a href="https://alamort.atabook.org"><img width="200" height="70" alt="3" src="https://github.com/user-attachments/assets/cf128dca-6be1-480e-a800-e2185fe79023" /></a><a href="https://pronouns.cc/@ALAMORT"><img width="200" height="70" alt="4" src="https://github.com/user-attachments/assets/e74e772f-27ef-45c6-9548-ada4a3ccb3e1" /></a>
+
+
+
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=36&speed=130&pause=4000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Around+people+worth+interrupting+my+isolation+for..." />
+<img width="1172" height="60" alt="Bildschirmfoto 2026-08-22 um 19 41 55" src="https://github.com/user-attachments/assets/a1a4e75c-9a5a-485e-97be-337177251e31" />
+
+
+<p align="center">
+<img width="800" height="404" alt="animesher com_hellsing-alucard-gif-1390426" src="https://github.com/user-attachments/assets/355ee392-f928-449c-a415-99e1109c9d9e" />
+
+<p align="center">
+<img width="1131" height="60" alt="Bildschirmfoto 2026-08-22 um 19 41 31" src="https://github.com/user-attachments/assets/4b84ba9d-e342-4a6e-8ea4-29dac8ef9a12" />
+<br><br>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=37&speed=130&pause=4000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Around+people+worth+interrupting+my+isolation+for..." />
 </p>
 
 <p align="center">
