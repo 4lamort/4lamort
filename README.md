@@ -108,7 +108,9 @@ Constant loudness and attention-seeking can be exhausting.
 <div align="center">
 
 <details>
-<summary><b>Ponychievements</b></summary>
+<summary>
+  <img src="https://img.shields.io/badge/TITLES%20%26%20RECOGNITION-000000?style=for-the-badge&labelColor=000000&color=000000" alt="Titles & Recognition">
+</summary>
 
 <br>
 
@@ -117,13 +119,13 @@ and honored with the title <b>Ponytown's Dracula</b>.
 
 <br><br>
 
-Thank you very much for the nomination and for granting me these titles.<br>
+Thank you for the nomination and for granting me these titles.<br>
 I truly appreciate the recognition.
 
 <br><br>
 
 <a href="https://github.com/ponychievements">
-  View Ponychievements
+  <img src="https://img.shields.io/badge/VIEW%20PONYCHIEVEMENTS-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="View Ponychievements">
 </a>
 
 <br><br>
